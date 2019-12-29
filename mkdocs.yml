@@ -1,0 +1,9 @@
+site_name: 2020 OS Winter Camp
+
+pages: 
+  - 홈: index.md
+  - 자료: material.md
+  - 발표자료:
+    - 명단 : 'guide/list.md'
+    - 발표순서 : 'guide/order.md'
+    - 발표자료 : 'guide/presentation.md'
